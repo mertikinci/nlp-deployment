@@ -1,0 +1,1 @@
+web: java -jar zemberek-examples-0.17.1-jar-with-dependencies.jar
